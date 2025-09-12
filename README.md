@@ -26,29 +26,3 @@
 ## 📊 Estatísticas do GitHub
 ![Gu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoall&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoall&layout=compact&theme=radical)
-
----
-
-## 🐍 Minhas contribuições
-![Snake animation](https://github.com/gustavoall/gustavoall/blob/output/github-contribution-grid-snake.svg)
-
----
-
-✨ _"Código limpo é como humor: quando você tem que explicar, não é tão bom."_  
-👉 Passo a passo pra ativar:
-
-Cria um repo com o mesmo nome do teu usuário → gustavoall.
-
-Dentro dele, adiciona esse README.md.
-
-Faz o commit → pronto, teu perfil já fica estiloso.
-
-Pra cobrinha 🐍 funcionar, precisa configurar um GitHub Action (posso te mandar o YAML pronto também se quiser).
-
-Quer que eu já prepare o YAML da cobrinha pra só colar no .github/workflows/ do teu repo?
-
-
-
-
-Nenhum ficheiro selecionadoNenhum ficheiro selecionado
-O ChatGPT pode cometer erros. Considere verificar informações importantes.
