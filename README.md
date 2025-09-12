@@ -24,5 +24,4 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Gu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoall&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoall&layout=compact&theme=radical)
+![Gu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoall&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoall&layout=compact&theme=radical)
