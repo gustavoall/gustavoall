@@ -7,9 +7,9 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gustavo-alves-64b6b519a)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavoall)  
-![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://gustavo.estilodev.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alves-64b6b519a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavoall)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://gustavo.estilodev.com.br/)
 
 ---
 
@@ -24,5 +24,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Gu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoall&show_icons=true&theme=radical)          
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoall&layout=compact&theme=radical)
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoall&show_icons=true&theme=radical" alt="Gu's GitHub stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoall&layout=compact&theme=radical" alt="Top Langs" height="180em"/>
+</p>
