@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alves-64b6b519a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavoall)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://gustavo.estilodev.com.br/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511983896572)
 
 ---
 
