@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Gu!
+# 👋 Olá, eu sou o Gustavo Alves!
 
 💻 **Full Stack Developer**  
-🚀 Criando projetos com paixão por código limpo e interfaces bonitas.  
-📚 Sempre aprendendo algo novo no mundo dev.  
+🚀 Criando projetos com paixão por código limpo e Escalável.  
+📚 Sempre aprendendo algo novo todos os dias.  
 
 ---
 
