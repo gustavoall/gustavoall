@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Gustavo Alves!
 
 💻 **Full Stack Developer**  
-🚀 Transformo ideias em soluções digitais com foco em qualidade, organização e escalabilidade.. 
-🌱 Código limpo hoje, escalabilidade garantida amanhã.
+🚀 Criando projetos com um código limpo hoje e escalável para o futuro.
 
 ---
 
