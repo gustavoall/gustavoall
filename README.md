@@ -61,11 +61,3 @@
 ### 🧱 Architecture & Best Practices
 
 DDD · Clean Code · Clean Architecture · SOLID · SCRUM · Kanban
-
----
-
-## 📊 GitHub Stats
-<p align="start">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=gustavoall&show_icons=true&theme=radical" alt="Gu's GitHub stats" height="180em"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoall&layout=compact&theme=radical" alt="Top Langs" height="180em"/>
-</p>
